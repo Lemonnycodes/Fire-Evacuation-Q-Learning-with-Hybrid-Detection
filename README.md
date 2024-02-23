@@ -39,4 +39,14 @@ The project successfully integrates Q-learning and A* pathfinding to provide eff
 
 <img src= "https://github.com/Lemonnycodes/Fire-Evacuation-/blob/main/imgs/Picture2.jpg"/>
 
+<img src="https://github.com/Lemonnycodes/Fire-Evacuation-/blob/main/imgs/Picture3.jpg" />
+
+<img src="https://github.com/Lemonnycodes/Fire-Evacuation-/blob/main/imgs/Picture4.jpg" />
+
+<img src="https://github.com/Lemonnycodes/Fire-Evacuation-/blob/main/imgs/Picture5.jpg"/>
+
+<img src="https://github.com/Lemonnycodes/Fire-Evacuation-/blob/main/imgs/Picture6.jpg"/>
+
+
+
 
