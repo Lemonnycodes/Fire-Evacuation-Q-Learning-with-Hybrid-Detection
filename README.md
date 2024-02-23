@@ -1,4 +1,4 @@
-# Fire Evacuation Route System
+### Fire Evacuation: Q-Learning with Hybrid Detection Systems
 
 This repository contains code for a fire evacuation route system that predicts optimal evacuation paths and analyzes factors contributing to effective evacuation. The project is implemented in Python and integrates algorithms for both static and dynamic environments, including Q-learning for adaptive pathfinding and A* for static pathfinding.
 
